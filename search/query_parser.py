@@ -88,7 +88,13 @@ class QueryParser:
         stripped = term.strip()
         if stripped.startswith('"') and stripped.endswith('"') and len(stripped) > 1:
             stripped = stripped[1:-1]
-        return stripped.lower()
+        normalized = stripped.lower()
+        if "*" in normalized:
+            if normalized.count("*") > 1 or not normalized.endswith("*"):
+                raise QueryParseError("Wildcard '*' is only allowed at the end")
+            if len(normalized) == 1:
+                raise QueryParseError("Wildcard '*' must follow a term")
+        return normalized
 
     def _current(self) -> Token | None:
         if self.index >= len(self.tokens):

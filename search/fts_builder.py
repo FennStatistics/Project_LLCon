@@ -20,13 +20,15 @@ def build_fts_query(node: Node) -> str:
     if isinstance(node, ProxNode):
         left = build_fts_query(node.left)
         right = build_fts_query(node.right)
-        return f"({left} NEAR/{node.distance} {right})"
+        return f"({left} AND {right})"
     raise TypeError("Unsupported node type")
 
 
 def collect_positive_terms(node: Node, negated: bool = False) -> list[str]:
     if isinstance(node, TermNode):
-        return [] if negated else [node.value]
+        if negated:
+            return []
+        return [_normalize_highlight_term(node.value)]
     if isinstance(node, NotNode):
         return collect_positive_terms(node.operand, True)
     if isinstance(node, AndNode) or isinstance(node, OrNode) or isinstance(node, ProxNode):
@@ -38,6 +40,13 @@ def collect_positive_terms(node: Node, negated: bool = False) -> list[str]:
 
 
 def _quote_term(term: str) -> str:
+    if term.endswith("*"):
+        return term
     safe = term.replace('"', '""')
     return f'"{safe}"'
 
+
+def _normalize_highlight_term(term: str) -> str:
+    if term.endswith("*"):
+        return term[:-1]
+    return term
