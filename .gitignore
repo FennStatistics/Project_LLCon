@@ -4,3 +4,9 @@
 data_processed/corpus.sqlite
 data_processed/corpus.sqlite-shm
 data_processed/corpus.sqlite-wal
+
+
+# Ignore build and distribution directories
+**/build
+**/dist
+LLConSearch.spec
