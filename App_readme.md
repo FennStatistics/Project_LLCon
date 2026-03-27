@@ -1,5 +1,9 @@
 # App_readme
 
+Screenshot of the app interface:
+
+![Screenshot App](image.png)
+
 This guide explains how to use the local search app in simple steps.
 
 Quick start

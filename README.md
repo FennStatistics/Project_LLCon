@@ -8,6 +8,10 @@ python main.py
 python application/main.py
 ```
 
+Guides
+- App usage: `App_readme.md`
+- Install/build: `install_readme.md`
+
 Overview
 This repository contains the L.L.Con. XML corpus and a local desktop search tool.
 The workflow is two-phase: preprocess XML into SQLite (notebook), then run the UI
