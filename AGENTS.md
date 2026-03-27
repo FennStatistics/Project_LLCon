@@ -1,16 +1,23 @@
 # AGENTS
 
 Purpose
-- This repository contains a legal XML corpus and a small GUI entry point.
+- This repository contains a legal XML corpus and a local search GUI.
 - Use this file to guide agentic changes, tooling, and conventions.
 
 Repository layout
-- README.md: minimal project marker.
+- README.md: project overview and links.
+- AGENTS.md: agent guidance.
+- requirements.txt: Python dependencies for local runs.
 - install_readme.md: dependency install guide for GUI/XML tooling.
 - notebooks/prepare_corpus.ipynb: preprocessing notebook (XML -> SQLite).
-- data_processed/: derived outputs (SQLite database).
+- data_processed/: derived outputs (SQLite database, logs).
 - main.py: PySide6 GUI entry point.
 - application/main.py: legacy demo entry point.
+- ui/: PySide6 UI components.
+- search/: query parser, AST, evaluator.
+- services/: data loading + search orchestration.
+- models/: dataclasses for records/results.
+- utils/: helper utilities.
 - data/Wendel_Korpus_BVerfG/: main corpus assets (PDFs, XML, CSV, CSS).
 - data/Wendel_Korpus_BVerfG/info/: CSV metadata tables.
 - data/Wendel_Korpus_BVerfG/xml/: XML source files.
@@ -25,9 +32,13 @@ Build, lint, test
 Run app (current)
 - `python main.py`
 
+Preprocess (current)
+- `jupyter lab` then run `notebooks/prepare_corpus.ipynb`.
+- Output: `data_processed/corpus.sqlite`.
+
 Dependencies
-- See `install_readme.md` for required Python packages.
-- There is no requirements.txt or pyproject.toml in this repo.
+- Use `requirements.txt` for Python dependencies.
+- See `install_readme.md` for GUI/tooling notes.
 
 Working assumptions for new code
 - Prefer Python 3 for data tooling unless project requirements say otherwise.
@@ -35,7 +46,7 @@ Working assumptions for new code
 - Do not introduce heavyweight dependencies unless clearly justified.
 - Preserve existing UI approach (PySide6/Qt).
 
-Code style guidelines (general)
+Code style (general)
 - Follow existing conventions in any new code you add.
 - Keep functions small and single purpose.
 - Favor pure functions where possible; isolate I/O at boundaries.
@@ -152,20 +163,3 @@ Change management
 - Minimize diffs in data files.
 - Prefer additive changes; avoid destructive edits.
 - Document rationale for any data modifications.
-
-Output locations
-- Put generated outputs under a new top-level `outputs/` or `derived/` directory.
-- Include a README in output directories describing provenance.
-
-File naming for outputs
-- Use ISO dates (YYYY-MM-DD) in output filenames.
-- Include a short descriptor and version if needed.
-
-Reproducibility
-- Provide a single entry script for reproducible pipelines.
-- Capture parameters and versions in a sidecar metadata file.
-
-Questions to resolve before large changes
-- Confirm desired language/tooling.
-- Confirm whether corpus data can be modified in place.
-- Confirm licensing requirements for derived outputs.
