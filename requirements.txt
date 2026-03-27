@@ -1,0 +1,6 @@
+PySide6
+lxml
+regex
+rapidfuzz
+pyinstaller
+pyside6-tools

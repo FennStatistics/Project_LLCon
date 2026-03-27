@@ -7,7 +7,10 @@ Purpose
 Repository layout
 - README.md: minimal project marker.
 - install_readme.md: dependency install guide for GUI/XML tooling.
-- application/main.py: PySide6 GUI entry point.
+- notebooks/prepare_corpus.ipynb: preprocessing notebook (XML -> SQLite).
+- data_processed/: derived outputs (SQLite database).
+- main.py: PySide6 GUI entry point.
+- application/main.py: legacy demo entry point.
 - data/Wendel_Korpus_BVerfG/: main corpus assets (PDFs, XML, CSV, CSS).
 - data/Wendel_Korpus_BVerfG/info/: CSV metadata tables.
 - data/Wendel_Korpus_BVerfG/xml/: XML source files.
@@ -20,7 +23,7 @@ Build, lint, test
 - If you add code, also add and document its build/lint/test commands here.
 
 Run app (current)
-- `python application/main.py`
+- `python main.py`
 
 Dependencies
 - See `install_readme.md` for required Python packages.
