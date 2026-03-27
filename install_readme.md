@@ -24,13 +24,9 @@ Packages
 - Install: `pip install pyinstaller`
 - Purpose: PyInstaller builds Windows executables.
 
-6) Optional dev tools
-- Install: `pip install pyside6-tools`
-- Run: `pyside6-designer`
-- Purpose: Qt Designer provides a drag-and-drop UI builder.
 
 Final install (copy-paste)
 
 ```
-pip install PySide6 lxml regex pyinstaller pyside6-tools
+pip install PySide6 lxml regex pyinstaller
 ```
