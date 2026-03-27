@@ -1,11 +1,13 @@
 # AGENTS
 
 Purpose
-- This repository is a data corpus, not an application.
-- Use this file to guide agentic changes and tooling.
+- This repository contains a legal XML corpus and a small GUI entry point.
+- Use this file to guide agentic changes, tooling, and conventions.
 
 Repository layout
 - README.md: minimal project marker.
+- install_readme.md: dependency install guide for GUI/XML tooling.
+- application/main.py: PySide6 GUI entry point.
 - data/Wendel_Korpus_BVerfG/: main corpus assets (PDFs, XML, CSV, CSS).
 - data/Wendel_Korpus_BVerfG/info/: CSV metadata tables.
 - data/Wendel_Korpus_BVerfG/xml/: XML source files.
@@ -17,10 +19,18 @@ Build, lint, test
 - There are no commands to run a single test.
 - If you add code, also add and document its build/lint/test commands here.
 
+Run app (current)
+- `python application/main.py`
+
+Dependencies
+- See `install_readme.md` for required Python packages.
+- There is no requirements.txt or pyproject.toml in this repo.
+
 Working assumptions for new code
 - Prefer Python 3 for data tooling unless project requirements say otherwise.
 - Keep tooling optional and separate from the corpus data.
 - Do not introduce heavyweight dependencies unless clearly justified.
+- Preserve existing UI approach (PySide6/Qt).
 
 Code style guidelines (general)
 - Follow existing conventions in any new code you add.
@@ -63,6 +73,12 @@ Logging and CLI behavior
 - Use standard logging (logging module) instead of print for tools.
 - Provide a quiet default and a verbose flag for diagnostics.
 - Exit non-zero on errors.
+
+PySide6/UI guidelines
+- Keep UI creation in functions/classes; avoid module-level side effects.
+- Use `if __name__ == "__main__":` for app entry points.
+- Keep long-running work off the UI thread.
+- Separate UI wiring from data parsing logic.
 
 Data handling
 - Treat data/ as source of truth; avoid in-place edits.
@@ -111,6 +127,10 @@ Linting/formatting (if you add tooling)
 - Example lint: `ruff check .`.
 - Example format: `ruff format .`.
 
+Packaging (if you add it)
+- Use PyInstaller for Windows exe builds.
+- Document the exact PyInstaller command used.
+
 Documentation
 - Update README.md if you add tooling or scripts.
 - Keep AGENTS.md in sync with new commands.
@@ -146,5 +166,3 @@ Questions to resolve before large changes
 - Confirm desired language/tooling.
 - Confirm whether corpus data can be modified in place.
 - Confirm licensing requirements for derived outputs.
-
-End
