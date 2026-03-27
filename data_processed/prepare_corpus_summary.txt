@@ -1,0 +1,19 @@
+L.L.Con. corpus preprocessing summary
+Timestamp: 2026-03-27T14:59:08.275218
+Corpus dir: /Volumes/storage/HELPOTHERS/Project_LLCon/data/Wendel_Korpus_BVerfG/xml
+Database: /Volumes/storage/HELPOTHERS/Project_LLCon/data_processed/corpus.sqlite
+XML files processed: 10980
+Absatz rows extracted: 403159
+Metadata matches: 10980
+Top sections (by count):
+  gruende: 383487
+  abwmeinungen: 5764
+  rubrum: 5339
+  tenor: 4689
+  leitsaetze: 3880
+Sample file to section mappings:
+  BVerfGE1,001.xml: gruende, rubrum, tenor
+  BVerfGE1,003.xml: gruende, leitsaetze, rubrum, tenor
+  BVerfGE1,004.xml: gruende, leitsaetze, rubrum, tenor
+  BVerfGE1,005.xml: gruende, leitsaetze, rubrum, tenor
+  BVerfGE1,007.xml: gruende, leitsaetze, rubrum, tenor
