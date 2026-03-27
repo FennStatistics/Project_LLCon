@@ -1,0 +1,17 @@
+body {line-height: 150%; position: relative}
+
+entscheidung {display: block; border-color: #0b0b95; border-width: 4px; border-style: dashed; margin: 20px; position: relative; padding: 20px}
+
+rubrum {display: block; background-color: #e38eee; border-color: #0b0b95; border-width: 0px; margin-top: 20px; position: relative; left: 5px; bottom: 5px;}
+
+tenor {display: block; background-color: #8e8eee; border-color: #0b0b95; border-width: 0px; margin-top: 20px; position: relative; left: 5px; bottom: 5px;}
+
+abwmeinungen  {display: block; border-color: #FF0000; border-width: 4px; border-style: dashed; margin: 20px; position: relative; padding: 20px}
+
+ebene1[tbeg = "tb"], absatz[tbeg = "tb"]{display: block; background-color: #f1e5a2; border-color: #836322; border-width: 0px; border-style: solid; position: relative; left: 5px; bottom: 5px; }
+
+ebene1[tbeg = "eg"], absatz[tbeg = "eg"]{display: block; background-color: #99d66d; border-color: #39740d; border-width: 0px; border-style: solid; position: relative; left: 5px; bottom: 5px; }
+
+absatz{display: block; text-indent: 50px; margin-top: 25px;  margin-bottom: 25px;  margin-right: 50px;  margin-left: 50px ;}
+
+absatz::before{  content: "\A";   white-space: pre; }

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="..\style.css"?>
+<bverfgdokument>
+ <entscheidung>
+  <rubrum>
+   BUNDESVERFASSUNGSGERICHT
+ - 1 BvR 256/08 -
+ Im Namen des Volkes
+ In dem Verfahren   über   die Verfassungsbeschwerde
+ 1. des Herrn Prof. Dr. G...,   2. des Herrn Dr. G...,   3. des Herrn K...,   4. der J... GmbH, vertreten durch den Geschäftsführer   5. des Herrn U...,   6. des Herrn R...,   7. des Herrn Z...,   8. des Herrn Dr. B...
+ - Bevollmächtigter:
+ [BEVOLLM. ENTFERNT]
+ gegen
+ die §§ 113a, 113b des Telekommunikationsgesetzes in der Fassung des Gesetzes zur Neuregelung der Telekommunikationsüberwachung und anderer verdeckter Ermittlungsmaßnahmen sowie zur Umsetzung der Richtlinie 2006/24/EG (BGBl I 2007, S. 3198 ff.)
+ hier:
+ Antrag auf Erlass einer einstweiligen Anordnung
+ hat das Bundesverfassungsgericht - Erster Senat - unter Mitwirkung der Richterin und Richter
+ Präsident Papier,   Hohmann-Dennhardt,   Hoffmann-Riem,   Bryde,   Gaier,   Eichberger,   Schluckebier,   Kirchhof
+ am 11. März 2008 beschlossen:
+  </rubrum>
+  <tenor>
+   § 113b Satz 1 Nummer 1 des Telekommunikationsgesetzes in der Fassung des Gesetzes vom 21. Dezember 2007 (Bundesgesetzblatt Teil I Seite 3198) ist bis zur Entscheidung in der Hauptsache nur mit folgenden Maßgaben anzuwenden: Aufgrund eines Abrufersuchens einer Strafverfolgungsbehörde nach § 100g Absatz 1 der Strafprozessordnung, das sich auf allein nach § 113a des Telekommunikationsgesetzes gespeicherte Telekommunikations-Verkehrsdaten bezieht, hat der durch das Abrufersuchen verpflichtete Anbieter von Telekommunikationsdiensten die verlangten Daten zu erheben. Sie sind jedoch nur dann an die ersuchende Behörde zu übermitteln, wenn Gegenstand des Ermittlungsverfahrens gemäß der Anordnung des Abrufs eine Katalogtat im Sinne des § 100a Absatz 2 der Strafprozessordnung ist und die Voraussetzungen des § 100a Absatz 1 der Strafprozessordnung vorliegen. In den übrigen Fällen des § 100g Absatz 1 der Strafprozessordnung ist von einer Übermittlung der Daten einstweilen abzusehen. Der Diensteanbieter hat die Daten zu speichern. Er darf die Daten nicht verwenden und hat sicherzustellen, dass Dritte nicht auf sie zugreifen können.
+ Die Bundesregierung hat dem Bundesverfassungsgericht zum 1. September 2008 nach Maßgabe der Gründe über die praktischen Auswirkungen der in § 113a des Telekommunikationsgesetzes vorgesehenen Datenspeicherungen und der vorliegenden einstweiligen Anordnung zu berichten. Die Länder und der Generalbundesanwalt haben der Bundesregierung die für den Bericht erforderlichen Informationen zu übermitteln.
+ Im Übrigen wird der Antrag auf Erlass einer einstweiligen Anordnung abgelehnt.
+ Die Bundesrepublik Deutschland hat den Beschwerdeführern ein Drittel der notwendigen Auslagen im Verfahren über den Antrag auf Erlass einer einstweiligen Anordnung zu erstatten.
+  </tenor>
+  <gruende><ebene1 nr="0" zeichen="NA" tbeg="tb"><absatz ebene1nr="0" ebene1zeichen="NA" absatzID="0" rn="NA" tbeg="tb">
+   Gründe:
+</absatz></ebene1><ebene1 nr="1" zeichen="A" tbeg="tb"><absatz ebene1nr="1" ebene1zeichen="A" absatzID="0" rn="NA" tbeg="tb"> A.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="1" rn="1" tbeg="tb">
+    Die Beschwerdeführer begehren mit ihrem Eilantrag, die durch das Gesetz zur Neuregelung der Telekommunikationsüberwachung und anderer verdeckter Ermittlungsmaßnahmen sowie zur Umsetzung der Richtlinie 2006/24/EG vom 21. Dezember 2007 (BGBl I S. 3198; im Folgenden: Gesetz zur Neuregelung der Telekommunikationsüberwachung) eingeführte Vorratsspeicherung von Telekommunikations-Verkehrsdaten zu Zwecken der öffentlichen Sicherheit einstweilen auszusetzen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="2" rn="NA" tbeg="tb">
+   I.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="3" rn="2" tbeg="tb">
+    1. Telekommunikations-Verkehrsdaten sind Daten, die bei der Erbringung   eines Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden (vgl. § 3 Nr. 30 des Telekommunikationsgesetzes - im Folgenden: TKG). Bereits seit längerer Zeit bestehen Ermächtigungen verschiedener Behörden, zu repressiven Zwecken der Strafverfolgung und präventiven Zwecken der Gefahrenabwehr solche Daten bei den Anbietern von Telekommunikationsdiensten zu erheben (vgl. etwa zu der strafprozessualen Befugnisnorm des § 100g StPO a.F. BVerfGE 107, 299 &lt;321 f.&gt;). Diese Ermächtigungen haben eine große praktische Relevanz. So gibt die Bundesregierung für den Bereich der Strafverfolgung die Zahl der Verkehrsdatenabrufe im Jahr 2005 mit über 40.000 an.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="4" rn="3" tbeg="tb">
+    Ein Abruf von Telekommunikations-Verkehrsdaten hatte bisher jedoch nur dann Erfolg, wenn der ersuchte Diensteanbieter die Daten zu eigenen Zwecken gespeichert hatte, etwa gemäß § 97 TKG zur Entgeltermittlung und Entgeltabrechnung. Hingegen waren die Diensteanbieter nach der bisherigen Rechtslage nicht verpflichtet oder auch nur berechtigt, Verkehrsdaten unabhängig von ihrem eigenen Bedarf zu öffentlichen Zwecken wie der Strafverfolgung oder der Gefahrenabwehr zu speichern (vgl. BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 27. Oktober 2006 - 1 BvR 1811/99 -, NJW 2007, S. 3055 &lt;3057&gt;).
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="5" rn="4" tbeg="tb">
+    Belastbare Angaben dazu, in wie vielen Fällen Abrufe von Verkehrsdaten nach der bisherigen Rechtslage erfolglos blieben, weil die Verkehrsdaten nicht über das Verbindungsende hinaus gespeichert oder zwischenzeitlich gelöscht worden waren, liegen dem Senat nicht vor. Eine Studie des Max-Planck-Instituts für ausländisches und internationales Strafrecht kommt auf der Grundlage einer Aktenanalyse in 467 Strafverfahren aus den Jahren 2003 und 2004 zu einer Misserfolgsquote von etwa 4 %. Die Bundesregierung hat hierzu jedoch ausgeführt, die Studie sei aufgrund der geringen Zahl untersuchter Fälle nicht repräsentativ. Zudem sei sie insoweit durch die Entwicklung des Telekommunikationsmarktes   überholt, als gerade in jüngerer Zeit vermehrt im Voraus bezahlte Telekommunikationsleistungen oder Pauschaltarife genutzt würden, in deren Rahmen Verkehrsdaten zu Zwecken der Entgeltabrechnung nicht über das Verbindungsende hinaus gespeichert werden müssten. Schließlich sei davon auszugehen, dass die Strafverfolgungsbehörden ihre Ermittlungspraxis auf die ihnen bekannten Speicherungsgepflogenheiten der Diensteanbieter eingestellt hätten, so dass Abrufersuchen, die keinen Erfolg versprachen, von vornherein nicht gestellt worden seien. Jedenfalls bestehe ein Bedarf für eine längerfristige Speicherung von Verkehrsdaten, der aus der Studie nicht ersichtlich werde.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="6" rn="5" tbeg="tb">
+    2. In einigen anderen Mitgliedstaaten der Europäischen Union sind Telekommunikationsunternehmen bereits seit längerer Zeit verpflichtet, Telekommunikations-Verkehrsdaten für Abrufe durch staatliche Stellen auf Vorrat zu speichern. Kommission und Rat sahen in den unterschiedlichen Vorgaben für die zu speichernden Datenarten, die für die Vorratsspeicherung geltenden Bedingungen und die Dauer der Vorratsspeicherung ein Hindernis für den Binnenmarkt im Bereich der elektronischen Kommunikation. Diesem Hindernis soll die Richtlinie 2006/24/EG des Europäischen Parlaments und des Rates vom 15. März 2006   über die Vorratsspeicherung von Daten, die bei der Bereitstellung öffentlich zugänglicher elektronischer Kommunikationsdienste oder öffentlicher Kommunikationsnetze erzeugt oder verarbeitet werden, und zur Änderung der Richtlinie 2002/58/EG (ABl L 105 vom 13. April 2006, S. 54; im Folgenden: Richtlinie 2006/24/EG) begegnen. Die Richtlinie 2006/24/EG ist auf Art. 95 EG gestützt. Dieser Kompetenztitel verleiht der Europäischen Gemeinschaft die Befugnis, Maßnahmen zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten zu erlassen, welche die Errichtung und das Funktionieren des Binnenmarktes zum Gegenstand haben.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="7" rn="6" tbeg="tb">
+    Nach Art. 1 Abs. 1 Richtlinie 2006/24/EG sind bestimmte Telekommunikationsdaten auf Vorrat zu speichern, um sicherzustellen, dass die Daten zum Zwecke der Ermittlung, Feststellung und Verfolgung von „schweren Straftaten, wie sie von jedem Mitgliedstaat in seinem nationalen Recht bestimmt werden“, zur Verfügung stehen. Art. 3 Abs. 1 Richtlinie 2006/24/EG verpflichtet die Mitgliedstaaten, dafür Sorge zu tragen, dass die in Art. 5 Richtlinie 2006/24/EG im Einzelnen aufgeführten Daten auf Vorrat gespeichert werden. Nach Art. 6 Richtlinie 2006/24/EG muss die Speicherungsdauer mindestens sechs Monate und darf höchstens zwei Jahre ab dem Zeitpunkt der Kommunikation betragen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="8" rn="7" tbeg="tb">
+    Die Republik Irland hat am 6. Juli 2006 eine Klage vor dem Europäischen Gerichtshof erhoben, um gemäß Art. 230 EG die Richtlinie 2006/24/EG für nichtig erklären zu lassen (Rs. C-301/06). Zur Begründung hat sie ausgeführt, die Richtlinie sei kompetenzwidrig zustande gekommen. Sie ziele nicht auf Errichtung und Funktionsfähigkeit des europäischen Binnenmarktes ab, sondern diene in erster Linie Belangen der Strafverfolgung, hätte daher eine andere Kompetenzgrundlage erfordert und in der Folge nicht als Richtlinie, sondern nur als Rahmenbeschluss ergehen können, der gemäß Art. 34 Abs. 2 Satz 2 Buchstabe b EU Einstimmigkeit verlangt hätte. Über diese Klage ist bislang nicht entschieden.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="9" rn="8" tbeg="tb">
+    3. Das Gesetz zur Neuregelung der Telekommunikationsüberwachung dient unter anderem dazu, die Richtlinie 2006/24/EG in deutsches Recht umzusetzen (vgl. BTDrucks 16/5846, S. 2). Zu diesem Zweck enthält sein Art. 2 Änderungen des Telekommunikationsgesetzes. Die von den Beschwerdeführern angegriffenen Regelungen zur Vorratsspeicherung von Telekommunikations-Verkehrsdaten finden sich in den neu geschaffenen §§ 113a, 113b TKG.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="10" rn="9" tbeg="tb">
+    § 113a TKG verpflichtet die Anbieter öffentlich zugänglicher Telekommunikationsdienste für Endnutzer, bestimmte einzeln aufgeführte Verkehrs- und Standortdaten für einen Zeitraum von sechs Monaten zu speichern. Der Inhalt der Kommunikation und Daten über aufgerufene Internetseiten dürfen aufgrund des § 113a TKG nicht gespeichert werden.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="11" rn="10" tbeg="tb">
+    § 113b TKG öffnet den bevorrateten Datenbestand für Abrufe zu den Zwecken der Verfolgung von Straftaten, der Abwehr erheblicher Gefahren für die öffentliche Sicherheit und der Erfüllung nachrichtendienstlicher Aufgaben. Die Norm enthält keine eigenständige Abrufbefugnis; eine solche ist dem für die jeweilige Behörde geltenden Fachrecht vorbehalten. Die darauf bezogenen gesetzlichen Bestimmungen müssen einen Datenabruf unter Bezugnahme auf § 113a TKG vorsehen. Über die Auskunftserteilung hat der Verpflichtete seinen Kundinnen und Kunden sowie Dritten gegenüber Stillschweigen zu wahren. Zu anderen Zwecken als   einem behördlichen Abruf darf der bevorratete Datenbestand - mit Ausnahme der Vorbereitung einer manuellen Bestandsdatenauskunft nach § 113 TKG - nicht genutzt werden.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="12" rn="11" tbeg="tb">
+    Bislang nimmt lediglich der gleichfalls durch das Gesetz zur Neuregelung der Telekommunikationsüberwachung novellierte § 100g StPO auf § 113a TKG Bezug und ermöglicht zum Zwecke der Strafverfolgung ein Auskunftsersuchen über Telekommunikations-Verkehrsdaten, die allein aufgrund der Vorratsspeicherungspflicht gespeichert sind. Die Neuregelung in § 100g StPO erweitert ferner die bisherigen Befugnisse der Strafverfolgungsbehörden zur Erhebung von Telekommunikations-Verkehrsdaten insoweit, als die Behörden von den Diensteanbietern nicht nur Auskunft über gespeicherte oder zukünftig anfallende Verkehrsdaten verlangen können, sondern auch zur Erhebung von Verkehrsdaten in Echtzeit während der laufenden Telekommunikation ermächtigt werden (vgl. BTDrucks 16/5846, S. 50).
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="13" rn="12" tbeg="tb">
+    Nach den im vorliegenden Verfahren eingegangenen Stellungnahmen sind Regelungen zum Abruf von allein nach § 113a TKG gespeicherten Daten zu präventiven Zwecken durch Polizei- und Sicherheitsbehörden in verschiedenen Ländern sowie auf Bundesebene geplant. Ihre Einführung steht jedoch nicht unmittelbar bevor. Hingegen gibt es bereits seit längerer Zeit zahlreiche fachrechtliche Normen, die Polizei- und Sicherheitsbehörden im Rahmen präventiver Zielsetzungen dazu ermächtigen, Verkehrsdaten zu erheben, welche ein Anbieter von Telekommunikationsdiensten zu eigenen Zwecken, etwa nach § 97 in Verbindung mit § 96 Abs. 1 TKG zur Entgeltermittlung und Entgeltabrechnung, gespeichert hat.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="14" rn="13" tbeg="tb">
+    4. Die verfahrensgegenständlichen Vorschriften lauten:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="15" rn="14" tbeg="tb">
+    § 113a TKG   Speicherungspflichten für Daten
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="16" rn="15" tbeg="tb">
+    (1) Wer öffentlich zugängliche Telekommunikationsdienste für Endnutzer erbringt, ist verpflichtet, von ihm bei der Nutzung seines Dienstes erzeugte oder verarbeitete Verkehrsdaten nach Maßgabe der Absätze 2 bis 5 sechs Monate im Inland oder in einem anderen Mitgliedstaat der Europäischen Union zu speichern. Wer öffentlich zugängliche Telekommunikationsdienste für Endnutzer erbringt,   ohne selbst Verkehrsdaten zu erzeugen oder zu verarbeiten, hat   sicherzustellen, dass die Daten gemäß Satz 1 gespeichert werden, und der Bundesnetzagentur auf deren Verlangen mitzuteilen, wer diese Daten speichert.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="17" rn="16" tbeg="tb">
+    (2) Die Anbieter von öffentlich zugänglichen Telefondiensten speichern:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="18" rn="17" tbeg="tb">
+    1. die Rufnummer oder andere Kennung des anrufenden und des angerufenen Anschlusses sowie im Falle von Um- oder Weiterschaltungen jedes weiteren beteiligten Anschlusses,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="19" rn="18" tbeg="tb">
+    2. den Beginn und das Ende der Verbindung nach Datum und Uhrzeit unter Angabe der zugrunde liegenden Zeitzone,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="20" rn="19" tbeg="tb">
+    3. in Fällen, in denen im Rahmen des Telefondienstes unterschiedliche Dienste genutzt werden können, Angaben zu dem genutzten Dienst,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="21" rn="20" tbeg="tb">
+    4. im Fall mobiler Telefondienste ferner:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="22" rn="21" tbeg="tb">
+    a) die internationale Kennung für mobile Teilnehmer für den anrufenden und den angerufenen Anschluss,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="23" rn="22" tbeg="tb">
+    b) die internationale Kennung des anrufenden und des angerufenen Endgerätes,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="24" rn="23" tbeg="tb">
+    c) die Bezeichnung der durch den anrufenden und den angerufenen Anschluss bei Beginn der Verbindung genutzten Funkzellen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="25" rn="24" tbeg="tb">
+    d) im Fall im Voraus bezahlter anonymer Dienste auch die erste Aktivierung des Dienstes nach Datum, Uhrzeit und Bezeichnung der Funkzelle,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="26" rn="25" tbeg="tb">
+    5. im Fall von Internet-Telefondiensten auch die Internetprotokoll-Adresse des anrufenden und des angerufenen Anschlusses.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="27" rn="26" tbeg="tb">
+    Satz 1 gilt entsprechend bei der Übermittlung einer Kurz-, Multimedia- oder ähnlichen Nachricht; hierbei sind anstelle der Angaben nach Satz 1 Nr. 2 die Zeitpunkte der Versendung und des Empfangs der Nachricht zu speichern.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="28" rn="27" tbeg="tb">
+    (3) Die Anbieter von Diensten der elektronischen Post speichern:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="29" rn="28" tbeg="tb">
+    1. bei Versendung einer Nachricht die Kennung des elektronischen Postfachs und die Internetprotokoll-Adresse des Absenders sowie die Kennung des elektronischen Postfachs jedes Empfängers der Nachricht,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="30" rn="29" tbeg="tb">
+    2. bei Eingang einer Nachricht in einem elektronischen Postfach die Kennung des elektronischen Postfachs des Absenders und des Empfängers der Nachricht sowie die Internetprotokoll-Adresse der absendenden Telekommunikationsanlage,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="31" rn="30" tbeg="tb">
+    3. bei Zugriff auf das elektronische Postfach dessen Kennung und die Internetprotokoll-Adresse des Abrufenden,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="32" rn="31" tbeg="tb">
+    4. die Zeitpunkte der in den Nummern 1 bis 3 genannten Nutzungen des Dienstes nach Datum und Uhrzeit unter Angabe der zugrunde liegenden Zeitzone.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="33" rn="32" tbeg="tb">
+    (4) Die Anbieter von Internetzugangsdiensten speichern:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="34" rn="33" tbeg="tb">
+    1. die dem Teilnehmer für eine Internetnutzung zugewiesene Internetprotokoll-Adresse,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="35" rn="34" tbeg="tb">
+    2. eine eindeutige Kennung des Anschlusses, über den die Internetnutzung erfolgt,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="36" rn="35" tbeg="tb">
+    3. den Beginn und das Ende der Internetnutzung unter der zugewiesenen Internetprotokoll-Adresse nach Datum und Uhrzeit unter Angabe der zugrunde liegenden Zeitzone.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="37" rn="36" tbeg="tb">
+    (5) Soweit Anbieter von Telefondiensten die in dieser Vorschrift genannten Verkehrsdaten für die in § 96 Abs. 2 genannten Zwecke auch dann speichern oder protokollieren, wenn der Anruf unbeantwortet bleibt oder wegen eines Eingriffs des Netzwerkmanagements erfolglos ist, sind die Verkehrsdaten auch nach Maßgabe dieser Vorschrift zu speichern.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="38" rn="37" tbeg="tb">
+    (6) Wer Telekommunikationsdienste erbringt und hierbei die nach Maßgabe dieser Vorschrift zu speichernden Angaben verändert, ist zur Speicherung der ursprünglichen und der neuen Angabe sowie des Zeitpunktes der Umschreibung dieser Angaben nach Datum und Uhrzeit unter Angabe der zugrunde liegenden Zeitzone verpflichtet.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="39" rn="38" tbeg="tb">
+    (7) Wer ein Mobilfunknetz für die Öffentlichkeit betreibt, ist verpflichtet, zu den nach Maßgabe dieser Vorschrift gespeicherten Bezeichnungen der Funkzellen auch Daten vorzuhalten, aus denen sich die geografischen Lagen der die jeweilige Funkzelle versorgenden Funkantennen sowie deren Hauptstrahlrichtungen ergeben.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="40" rn="39" tbeg="tb">
+    (8) Der Inhalt der Kommunikation und Daten über aufgerufene Internetseiten dürfen auf Grund dieser Vorschrift nicht gespeichert werden.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="41" rn="40" tbeg="tb">
+    (9) Die Speicherung der Daten nach den Absätzen 1 bis 7 hat so zu erfolgen, dass Auskunftsersuchen der berechtigten Stellen unverzüglich beantwortet werden können.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="42" rn="41" tbeg="tb">
+    (10) Der nach dieser Vorschrift Verpflichtete hat betreffend die Qualität und den Schutz der gespeicherten Verkehrsdaten die im Bereich der Telekommunikation erforderliche Sorgfalt zu beachten. Im Rahmen dessen hat er durch technische und organisatorische Maßnahmen sicherzustellen, dass der Zugang zu den gespeicherten Daten ausschließlich hierzu von ihm besonders ermächtigten Personen möglich ist.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="43" rn="42" tbeg="tb">
+    (11) Der nach dieser Vorschrift Verpflichtete hat die allein auf Grund dieser Vorschrift gespeicherten Daten innerhalb eines Monats nach Ablauf der in Absatz 1 genannten Frist zu löschen oder die Löschung sicherzustellen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="44" rn="43" tbeg="tb">
+    § 113b TKG   Verwendung der nach § 113a gespeicherten Daten
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="45" rn="44" tbeg="tb">
+    Der nach § 113a Verpflichtete darf die allein auf Grund der Speicherungsverpflichtung nach § 113a gespeicherten Daten
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="46" rn="45" tbeg="tb">
+    1. zur Verfolgung von Straftaten,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="47" rn="46" tbeg="tb">
+    2. zur Abwehr von erheblichen Gefahren für die öffentliche Sicherheit oder
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="48" rn="47" tbeg="tb">
+    3. zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden des Bundes und der Länder, des Bundesnachrichtendienstes und des Militärischen Abschirmdienstes
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="49" rn="48" tbeg="tb">
+    an die zuständigen Stellen auf deren Verlangen übermitteln, soweit dies in den jeweiligen gesetzlichen Bestimmungen unter Bezugnahme auf § 113a vorgesehen und die Übermittlung im Einzelfall angeordnet ist; für andere Zwecke mit Ausnahme einer Auskunftserteilung nach § 113 darf er die Daten nicht verwenden. § 113 Abs. 1 Satz 4 gilt entsprechend.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="50" rn="49" tbeg="tb">
+    Die in der Strafprozessordnung enthaltene Abrufnorm lautet:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="51" rn="50" tbeg="tb">
+    § 100g StPO
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="52" rn="51" tbeg="tb">
+    (1) Begründen bestimmte Tatsachen den Verdacht, dass jemand als Täter oder Teilnehmer
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="53" rn="52" tbeg="tb">
+    1. eine Straftat von auch im Einzelfall erheblicher Bedeutung, insbesondere eine in § 100a Abs. 2 bezeichnete Straftat, begangen hat, in Fällen, in denen der Versuch strafbar ist, zu begehen versucht hat oder durch eine Straftat vorbereitet hat oder
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="54" rn="53" tbeg="tb">
+    2. eine Straftat mittels Telekommunikation begangen hat,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="55" rn="54" tbeg="tb">
+    so dürfen auch ohne Wissen des Betroffenen Verkehrsdaten (§ 96 Abs. 1, § 113a des Telekommunikationsgesetzes) erhoben werden, soweit dies für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten erforderlich ist. Im Falle des Satzes 1 Nr. 2 ist die Maßnahme nur zulässig, wenn die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos wäre und die Erhebung der Daten in einem angemessenen Verhältnis zur Bedeutung der Sache steht. Die Erhebung von Standortdaten in Echtzeit ist nur im Falle des Satzes 1 Nr. 1 zulässig.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="56" rn="55" tbeg="tb">
+    (2) § 100a Abs. 3 und § 100b Abs. 1 bis 4 Satz 1 gelten entsprechend. Abweichend von § 100b Abs. 2 Satz 2 Nr. 2 genügt im Falle einer Straftat von erheblicher Bedeutung eine räumlich und zeitlich hinreichend bestimmte Bezeichnung der Telekommunikation, wenn die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="57" rn="56" tbeg="tb">
+    (3) Erfolgt die Erhebung von Verkehrsdaten nicht beim Telekommunikationsdiensteanbieter, bestimmt sie sich nach Abschluss des Kommunikationsvorgangs nach den allgemeinen Vorschriften.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="58" rn="57" tbeg="tb">
+    (4) Über Maßnahmen nach Absatz 1 ist entsprechend § 100b Abs. 5 jährlich eine Übersicht zu erstellen, in der anzugeben sind:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="59" rn="58" tbeg="tb">
+    1. die Anzahl der Verfahren, in denen Maßnahmen nach Absatz 1 durchgeführt worden sind;
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="60" rn="59" tbeg="tb">
+    2. die Anzahl der Anordnungen von Maßnahmen nach Absatz 1, unterschieden nach Erst- und Verlängerungsanordnungen;
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="61" rn="60" tbeg="tb">
+    3. die jeweils zugrunde liegende Anlassstraftat, unterschieden nach Absatz 1 Satz 1 Nr. 1 und 2;
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="62" rn="61" tbeg="tb">
+    4. die Anzahl der zurückliegenden Monate, für die Verkehrsdaten nach Absatz 1 abgefragt wurden, bemessen ab dem Zeitpunkt der Anordnung;
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="63" rn="62" tbeg="tb">
+    5. die Anzahl der Maßnahmen, die ergebnislos geblieben sind, weil die abgefragten Daten ganz oder teilweise nicht verfügbar waren.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="64" rn="63" tbeg="tb">
+    Der von § 100g StPO in Bezug genommene § 100a StPO lautet auszugsweise:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="65" rn="64" tbeg="tb">
+    § 100a StPO
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="66" rn="65" tbeg="tb">
+    (1) Auch ohne Wissen der Betroffenen darf die Telekommunikation überwacht und aufgezeichnet werden, wenn
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="67" rn="66" tbeg="tb">
+    1. bestimmte Tatsachen den Verdacht begründen, dass jemand als Täter oder Teilnehmer eine in Absatz 2 bezeichnete schwere Straftat begangen, in Fällen, in denen der Versuch strafbar ist, zu begehen versucht, oder durch eine Straftat vorbereitet hat,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="68" rn="67" tbeg="tb">
+    2. die Tat auch im Einzelfall schwer wiegt und
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="69" rn="68" tbeg="tb">
+    3. die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes des Beschuldigten auf andere Weise wesentlich erschwert oder aussichtslos wäre.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="70" rn="69" tbeg="tb">
+    (2) Schwere Straftaten im Sinne des Absatzes 1 Nr. 1 sind:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="71" rn="70" tbeg="tb">
+    1. aus dem Strafgesetzbuch:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="72" rn="71" tbeg="tb">
+    a) Straftaten des Friedensverrats, des Hochverrats und der Gefährdung des demokratischen Rechtsstaates sowie des Landesverrats und der Gefährdung der äußeren Sicherheit nach den §§ 80 bis 82, 84 bis 86, 87 bis 89, 94 bis 100a,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="73" rn="72" tbeg="tb">
+    b) Abgeordnetenbestechung nach § 108e,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="74" rn="73" tbeg="tb">
+    c) Straftaten gegen die Landesverteidigung nach den §§ 109d bis 109h,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="75" rn="74" tbeg="tb">
+    d) Straftaten gegen die öffentliche Ordnung nach den §§ 129 bis 130,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="76" rn="75" tbeg="tb">
+    e) Geld- und Wertzeichenfälschung nach den §§ 146 und 151, jeweils auch in Verbindung mit § 152, sowie nach § 152a Abs. 3 und § 152b Abs. 1 bis 4,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="77" rn="76" tbeg="tb">
+    f) Straftaten gegen die sexuelle Selbstbestimmung in den Fällen der §§ 176a, 176b, 177 Abs. 2 Nr. 2 und des § 179 Abs. 5 Nr. 2,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="78" rn="77" tbeg="tb">
+    g) Verbreitung, Erwerb und Besitz kinderpornografischer Schriften nach § 184b Abs. 1 bis 3,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="79" rn="78" tbeg="tb">
+    h) Mord und Totschlag nach den §§ 211 und 212,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="80" rn="79" tbeg="tb">
+    i) Straftaten gegen die persönliche Freiheit nach den §§ 232 bis 233a, 234, 234a, 239a und 239b,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="81" rn="80" tbeg="tb">
+    j) Bandendiebstahl nach § 244 Abs. 1 Nr. 2 und schwerer Bandendiebstahl nach § 244a,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="82" rn="81" tbeg="tb">
+    k) Straftaten des Raubes und der Erpressung nach den §§ 249 bis 255,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="83" rn="82" tbeg="tb">
+    l) gewerbsmäßige Hehlerei, Bandenhehlerei und gewerbsmäßige Bandenhehlerei nach den §§ 260 und 260a,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="84" rn="83" tbeg="tb">
+    m) Geldwäsche und Verschleierung unrechtmäßig erlangter Vermögenswerte nach § 261 Abs. 1, 2 und 4,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="85" rn="84" tbeg="tb">
+    n) Betrug und Computerbetrug unter den in § 263 Abs. 3 Satz 2 genannten Voraussetzungen und im Falle des § 263 Abs. 5, jeweils auch in Verbindung mit § 263a Abs. 2,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="86" rn="85" tbeg="tb">
+    o) Subventionsbetrug unter den in § 264 Abs. 2 Satz 2 genannten Voraussetzungen und im Falle des § 264 Abs. 3 in Verbindung mit § 263 Abs. 5,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="87" rn="86" tbeg="tb">
+    p) Straftaten der Urkundenfälschung unter den in § 267 Abs. 3 Satz 2 genannten Voraussetzungen und im Fall des § 267 Abs. 4, jeweils auch in Verbindung mit § 268 Abs. 5 oder § 269 Abs. 3, sowie nach § 275 Abs. 2 und § 276 Abs. 2,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="88" rn="87" tbeg="tb">
+    q) Bankrott unter den in § 283a Satz 2 genannten Voraussetzungen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="89" rn="88" tbeg="tb">
+    r) Straftaten gegen den Wettbewerb nach § 298 und, unter den in § 300 Satz 2 genannten Voraussetzungen, nach § 299,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="90" rn="89" tbeg="tb">
+    s) gemeingefährliche Straftaten in den Fällen der §§ 306 bis 306c, 307 Abs. 1 bis 3, des § 308 Abs. 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1, der §§ 313, 314, 315 Abs. 3, des § 315b Abs. 3 sowie der §§ 316a und 316c,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="91" rn="90" tbeg="tb">
+    t) Bestechlichkeit und Bestechung nach den §§ 332 und 334,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="92" rn="91" tbeg="tb">
+    2. aus der Abgabenordnung:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="93" rn="92" tbeg="tb">
+    a) Steuerhinterziehung unter den in § 370 Abs. 3 Satz 2 Nr. 5 genannten Voraussetzungen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="94" rn="93" tbeg="tb">
+    b) gewerbsmäßiger, gewaltsamer und bandenmäßiger Schmuggel nach § 373,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="95" rn="94" tbeg="tb">
+    c) Steuerhehlerei im Falle des § 374 Abs. 2,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="96" rn="95" tbeg="tb">
+    3. aus dem Arzneimittelgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="97" rn="96" tbeg="tb">
+    Straftaten nach § 95 Abs. 1 Nr. 2a unter den in § 95 Abs. 3 Satz 2 Nr. 2 Buchstabe b genannten Voraussetzungen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="98" rn="97" tbeg="tb">
+    4. aus dem Asylverfahrensgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="99" rn="98" tbeg="tb">
+    a) Verleitung zur missbräuchlichen Asylantragstellung nach § 84 Abs. 3,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="100" rn="99" tbeg="tb">
+    b) gewerbs- und bandenmäßige Verleitung zur missbräuchlichen Asylantragstellung nach § 84a,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="101" rn="100" tbeg="tb">
+    5. aus dem Aufenthaltsgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="102" rn="101" tbeg="tb">
+    a) Einschleusen von Ausländern nach § 96 Abs. 2,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="103" rn="102" tbeg="tb">
+    b) Einschleusen mit Todesfolge und gewerbs- und bandenmäßiges Einschleusen nach § 97,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="104" rn="103" tbeg="tb">
+    6. aus dem Außenwirtschaftsgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="105" rn="104" tbeg="tb">
+    Straftaten nach § 34 Abs. 1 bis 6,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="106" rn="105" tbeg="tb">
+    7. aus dem Betäubungsmittelgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="107" rn="106" tbeg="tb">
+    a) Straftaten nach einer in § 29 Abs. 3 Satz 2 Nr. 1 in Bezug genommenen Vorschrift unter den dort genannten Voraussetzungen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="108" rn="107" tbeg="tb">
+    b) Straftaten nach den §§ 29a, 30 Abs. 1 Nr. 1, 2 und 4 sowie den §§ 30a und 30b,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="109" rn="108" tbeg="tb">
+    8. aus dem Grundstoffüberwachungsgesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="110" rn="109" tbeg="tb">
+    Straftaten nach § 29 Abs. 1 unter den in § 29 Abs. 3 Satz 2 genannten Voraussetzungen,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="111" rn="110" tbeg="tb">
+    9. aus dem Gesetz über die Kontrolle von Kriegswaffen:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="112" rn="111" tbeg="tb">
+    a) Straftaten nach § 19 Abs. 1 bis 3 und § 20 Abs. 1 und 2 sowie § 20a Abs. 1 bis 3, jeweils auch in Verbindung mit § 21,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="113" rn="112" tbeg="tb">
+    b) Straftaten nach § 22a Abs. 1 bis 3,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="114" rn="113" tbeg="tb">
+    10. aus dem Völkerstrafgesetzbuch:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="115" rn="114" tbeg="tb">
+    a) Völkermord nach § 6,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="116" rn="115" tbeg="tb">
+    b) Verbrechen gegen die Menschlichkeit nach § 7,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="117" rn="116" tbeg="tb">
+    c) Kriegsverbrechen nach den §§ 8 bis 12,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="118" rn="117" tbeg="tb">
+    11. aus dem Waffengesetz:
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="119" rn="118" tbeg="tb">
+    a) Straftaten nach § 51 Abs. 1 bis 3,
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="120" rn="119" tbeg="tb">
+    b) Straftaten nach § 52 Abs. 1 Nr. 1 und 2 Buchstabe c und d sowie Abs. 5 und 6.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="121" rn="120" tbeg="tb">
+    …
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="122" rn="NA" tbeg="tb">
+   II.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="123" rn="121" tbeg="tb">
+    Die Beschwerdeführer zu 1) bis 3) und zu 5) bis 8) nutzen privat und geschäftlich verschiedene Telekommunikationsdienste wie Festnetzanschlüsse, Mobiltelefone, Internetzugangsdienste und E-Mail-Postfächer. Die Beschwerdeführerin zu 4) entwickelt und vertreibt die Software für einen kommerziellen Internet-Anonymisierungsdienst.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="124" rn="122" tbeg="tb">
+    Die Beschwerdeführer bringen vor, der Antrag auf Erlass einer einstweiligen Anordnung sei bereits deshalb begründet, weil die mit der Verfassungsbeschwerde angegriffenen Normen offensichtlich gegen das Grundgesetz verstießen. Jedenfalls sei ihre Anwendung aufgrund einer Folgenabwägung auszusetzen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="125" rn="123" tbeg="tb">
+    Die angegriffenen Regelungen beeinträchtigten aufgrund ihrer Breitenwirkung nicht nur die Entfaltungschancen der Einzelnen, sondern in gravierendem Maße das Gemeinwohl insgesamt. Die anlasslose Vorratsspeicherung von Telekommunikations-Verkehrsdaten könne die Bevölkerung massiv einschüchtern. Dadurch sei zu besorgen, dass sensible Kontakte und Kommunikationen entweder erschwert würden oder insgesamt endeten.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="126" rn="124" tbeg="tb">
+    Demgegenüber wögen die Nachteile, die mit einer Aussetzung der Anwendung von §§ 113a, 113b TKG verbunden wären, weniger schwer. Nur in Ausnahmefällen würde die Aussetzung den Verlust von Beweismitteln nach sich ziehen. Die bestehenden Möglichkeiten des Zugriffs auf Verkehrsdaten, die zu Abrechnungszwecken gespeichert seien oder auf richterliche Anordnung gespeichert würden, blieben erhalten. Diese Möglichkeiten hätten in den letzten Jahren eine wirksame Strafrechtspflege gesichert und seien durch das Gesetz zur Neuregelung der Telekommunikationsüberwachung weiter ausgebaut worden.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="127" rn="125" tbeg="tb">
+    Das Gemeinschaftsrecht hindere den Erlass der beantragten einstweiligen Anordnung nicht. Die Richtlinie 2006/24/EG sei formell gemeinschaftsrechtswidrig und mit den von dem Europäischen Gerichtshof anerkannten Gemeinschaftsgrundrechten nicht vereinbar.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="128" rn="NA" tbeg="tb">
+   III.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="129" rn="126" tbeg="tb">
+    Zu dem Antrag auf Erlass einer einstweiligen Anordnung haben die Bundesregierung und die Regierungen der Länder Bayern, Brandenburg, Hamburg und Rheinland-Pfalz Stellung genommen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="130" rn="127" tbeg="tb">
+    1. Die Bundesregierung hält den Antrag jedenfalls für unbegründet. Der Erlass einer einstweiligen Anordnung scheide bereits deshalb aus, weil die Verfassungsbeschwerde in der Hauptsache unzulässig sei. Soweit die angegriffenen Normen zwingende gemeinschaftsrechtliche Vorgaben umsetzten, bestehe keine Prüfungskompetenz des Bundesverfassungsgerichts. Die deutsche Regelung gehe hinsichtlich des Speicherungszwecks der Strafverfolgung nicht über die Vorgaben der Richtlinie 2006/24/EG hinaus. Soweit § 113b Satz 1 Nr. 2 und 3 TKG den bevorrateten Datenbestand auch für andere Zwecke als die Strafverfolgung bereitstelle, fehle es mangels fachrechtlicher Abrufermächtigungen derzeit an einer   eigenständigen Beschwer.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="131" rn="128" tbeg="tb">
+    Werde gleichwohl in eine Folgenabwägung eingetreten, so gehe diese zulasten einer Aussetzung des Vollzugs der angegriffenen Normen aus.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="132" rn="129" tbeg="tb">
+    Für die Einzelnen, deren Daten gespeichert würden, bestehe lediglich die Gefahr einer punktuellen Übermittlung von Daten, die möglicherweise auf andere Weise nicht in den Zugriffsbereich des Staates gelangt wären. Diese Informationen unterlägen aber weiterhin einer unabhängigen gerichtlichen Würdigung und den Regeln der strafprozessualen Beweiserhebung und Beweisverwertung. Bei dem bloßen Akt der Speicherung handle es sich um einen Eingriff von geringer Intensität, da die gespeicherten Informationen von niemandem zur Kenntnis genommen werden könnten. Die von den Beschwerdeführern behauptete abschreckende Wirkung der Datenspeicherung beruhe im Wesentlichen auf einer Überzeichnung und Falschdarstellung der angegriffenen Normen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="133" rn="130" tbeg="tb">
+    Hätte der Antrag Erfolg, so würde die Effektivität der Strafverfolgung erheblich geschmälert. Aufgrund der wachsenden Verbreitung von Pauschaltarifen verliere die Erhebungsbefugnis des § 100g StPO mit dem Fehlen von Verkehrsdaten zunehmend ihre tatsächliche Grundlage. So würden etwa im Bereich der Verbreitung von Kinderpornographie die Sachverhalte häufig nicht zeitnah bekannt, so dass die schnelle Löschung von Verkehrsdaten die Ermittlungsmöglichkeiten in vielen Fällen zunichte mache. Im Übrigen könne bereits eine Verzögerung der Auskunftserteilung zur endgültigen Vereitelung des staatlichen Strafanspruchs gerade auch hinsichtlich schwerer Straftaten führen, da in vielen Fällen Beweismittel unwiederbringlich verloren gingen.
+   </absatz><absatz ebene1nr="1" ebene1zeichen="A" absatzID="134" rn="131" tbeg="tb">
+    2. Die Regierungen der Länder Bayern, Brandenburg, Hamburg und Rheinland-Pfalz haben sich zu geplanten landesrechtlichen Regelungen des Verkehrsdatenabrufs sowie zu ermittlungspraktischen Fragen geäußert.
+   </absatz></ebene1><ebene1 nr="2" zeichen="B" tbeg="eg"><absatz ebene1nr="2" ebene1zeichen="B" absatzID="0" rn="NA" tbeg="eg">   B.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="1" rn="132" tbeg="eg">
+    Dem Antrag auf Erlass einer einstweiligen Anordnung ist teilweise stattzugeben.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="2" rn="NA" tbeg="eg">
+   I.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="3" rn="133" tbeg="eg">
+    Gemäß § 32 Abs. 1 BVerfGG kann das Bundesverfassungsgericht im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln, wenn dies zur Abwehr schwerer Nachteile, zur Verhinderung drohender Gewalt oder aus einem anderen wichtigen Grund zum gemeinen Wohl dringend geboten ist. Dabei haben die Gründe, die für die Verfassungswidrigkeit des angegriffenen Hoheitsakts vorgetragen werden, grundsätzlich außer Betracht zu bleiben, es sei denn, die Verfassungsbeschwerde erwiese sich von vornherein als unzulässig oder offensichtlich unbegründet (vgl. BVerfGE 112, 284 &lt;291&gt;; stRspr). Dies ist hier nicht der Fall.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="4" rn="134" tbeg="eg">
+    1. Zweifel an der Zulässigkeit der Verfassungsbeschwerde ergeben sich allerdings zum Teil daraus, dass diese auch gegen Regelungen gerichtet ist, durch die zwingende Vorgaben der Richtlinie 2006/24/EG umgesetzt werden. Dies führt jedoch nicht dazu, dass die Verfassungsbeschwerde insgesamt von vornherein als unzulässig anzusehen wäre.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="5" rn="135" tbeg="eg">
+    a) Über die Anwendbarkeit von abgeleitetem Gemeinschaftsrecht, das als Rechtsgrundlage von deutschen Gerichten und Behörden im Hoheitsbereich der Bundesrepublik Deutschland in Anspruch genommen wird, übt das Bundesverfassungsgericht seine Gerichtsbarkeit nicht mehr aus, solange die Europäischen Gemeinschaften einen wirksamen Schutz der Grundrechte gegenüber der Hoheitsgewalt der Gemeinschaften generell gewährleisten, der dem vom Grundgesetz jeweils als unabdingbar gebotenen Grundrechtsschutz im Wesentlichen gleich zu achten ist (vgl. BVerfGE 73, 339 &lt;387&gt;; 102, 147 &lt;162 ff.&gt;). Dementsprechend wird eine innerstaatliche Rechtsvorschrift, die eine Richtlinie in deutsches Recht umsetzt, insoweit nicht an den Grundrechten des Grundgesetzes gemessen, als das Gemeinschaftsrecht keinen Umsetzungsspielraum lässt, sondern zwingende Vorgaben macht (vgl. BVerfGE 118, 79 &lt;95 ff.&gt;). Hingegen kann eine Norm des deutschen Rechts, durch die der Gesetzgeber die Vorgaben einer Richtlinie in eigener Regelungskompetenz konkretisiert hat oder über solche Vorgaben hinausgegangen ist, zulässigerweise mit einer Verfassungsbeschwerde angegriffen werden.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="6" rn="136" tbeg="eg">
+    Inwieweit die Verfassungsbeschwerde sich nach diesen Maßgaben als zulässig erweist, muss hier nicht abschließend entschieden werden. Sie ist jedenfalls nicht insgesamt von vornherein unzulässig. Die von den Beschwerdeführern angegriffenen Normen erschöpfen sich nicht darin, zwingende gemeinschaftsrechtliche Vorgaben umzusetzen. Zum einen belässt die Richtlinie 2006/24/EG den Mitgliedstaaten Regelungsspielräume, etwa bei der Bestimmung der Straftaten, zu deren Verfolgung der bevorratete Datenbestand genutzt werden darf. Zum anderen gehen die §§ 113a, 113b TKG zumindest in Teilbereichen über die in der Richtlinie enthaltenen zwingenden Vorgaben hinaus. So ermöglicht § 113b Satz 1 Nr. 2 und 3 TKG einen Datenabruf nicht nur zur Strafverfolgung, sondern auch zur Gefahrenabwehr und zur Erfüllung sicherheitsbehördlicher Aufgaben. Auch dürften die in § 113a Abs. 1 Satz 2 und Abs. 6 TKG enthaltenen Verpflichtungen zur Datenspeicherung über die durch Art. 3 Abs. 1 und Art. 5 Abs. 1 Richtlinie 2006/24/EG vorgegebenen Speicherungspflichten hinausreichen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="7" rn="137" tbeg="eg">
+    b) Zudem kann derzeit nicht ausgeschlossen werden, dass der Europäische Gerichtshof die Richtlinie 2006/24/EG aufgrund der anhängigen Nichtigkeitsklage der Republik Irland (Rs. C-301/06) wegen der Inanspruchnahme eines nicht tragfähigen Kompetenztitels für nichtig erklären wird. Diese Klage erscheint angesichts der Erwägungen, mit denen die Klägerin die Kompetenzwidrigkeit der Richtlinie begründet, zumindest nicht von vornherein aussichtslos (vgl. dazu ferner   Alvaro, DANA 2006, S. 52 &lt;53 f.&gt;; Gitter/Schnabel, MMR 2007, S. 411 &lt;412 f.&gt;; Leutheusser-Schnarrenberger, ZRP 2007, S. 9 &lt;11 ff.&gt;; Westphal, EuZW 2006, S. 555 &lt;557 ff.&gt;; Zöller, GA 2007, S. 393 &lt;407 ff.&gt;). Sollte der Antrag der Republik Irland Erfolg haben, wäre Raum für eine umfassende Prüfung der angegriffenen Normen durch das Bundesverfassungsgericht am Maßstab der deutschen Grundrechte (vgl. BVerfGE 118, 79 &lt;97 f.&gt;).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="8" rn="138" tbeg="eg">
+    2. Die Verfassungsbeschwerde ist auch nicht offensichtlich unbegründet. Für ihre Erfolgsaussichten wird es darauf ankommen, ob und unter welchen Voraussetzungen eine anlasslose, umfassende und zu den in § 113b TKG vorgesehenen Zwecken erfolgende Vorratsspeicherung von sensiblen Daten, deren Erhebung durch staatliche Stellen in Art. 10 GG eingreift (vgl. BVerfGE 107, 299 &lt;312 ff.&gt;), mit dem Grundgesetz vereinbar ist. Zudem wird zu überprüfen sein, inwieweit es die verfassungsrechtlichen Anforderungen beeinflusst, dass die abgerufenen Daten zuvor zum Zweck eines im Voraus nicht absehbaren Datenabrufs auf Vorrat gespeichert worden sind. Diese Fragen lassen sich aus der bisherigen Rechtsprechung des Bundesverfassungsgerichts nicht ohne weiteres beantworten, sondern bedürfen einer umfassenden Prüfung im Hauptsacheverfahren.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="9" rn="NA" tbeg="eg">
+   II.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="10" rn="139" tbeg="eg">
+    1. Kann - wie hier - nicht festgestellt werden, dass die Verfassungsbeschwerde insgesamt von vornherein unzulässig oder offensichtlich unbegründet ist, muss der Ausgang des Verfassungsbeschwerdeverfahrens also als offen angesehen werden, sind die Folgen, die eintreten würden, wenn die einstweilige Anordnung nicht erginge, die Verfassungsbeschwerde später aber Erfolg hätte, gegen die Nachteile abzuwägen, die entstünden, wenn die begehrte einstweilige Anordnung erlassen würde, der Verfassungsbeschwerde aber der Erfolg zu versagen wäre (vgl. BVerfGE 117, 126 &lt;135&gt;; stRspr).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="11" rn="140" tbeg="eg">
+    a) Wird die Aussetzung des Vollzugs eines Gesetzes begehrt, ist bei der Folgenabwägung ein besonders strenger Maßstab anzulegen (vgl. BVerfGE 3, 41 &lt;44&gt;; 104, 51 &lt;55&gt;; 112, 284 &lt;292&gt;; stRspr). Das Bundesverfassungsgericht darf von seiner Befugnis, das Inkrafttreten eines Gesetzes zu verzögern, nur mit größter Zurückhaltung Gebrauch machen, da der Erlass einer solchen einstweiligen Anordnung stets ein erheblicher Eingriff in die Gestaltungsfreiheit des Gesetzgebers ist. Ein Gesetz darf deshalb nur dann vorläufig am Inkrafttreten gehindert werden, wenn die Nachteile, die mit seinem Inkrafttreten nach späterer Feststellung seiner Verfassungswidrigkeit verbunden wären, in Ausmaß und Schwere die Nachteile deutlich überwiegen, die im Falle der vorläufigen Verhinderung eines sich als verfassungsgemäß erweisenden Gesetzes einträten (vgl. BVerfGE 104, 23 &lt;27&gt;; 117, 126 &lt;135&gt;; stRspr). Bei dieser Folgenabwägung sind die Auswirkungen auf alle von dem Gesetz Betroffenen zu berücksichtigen, nicht nur Folgen, die sich für den Beschwerdeführer ergeben (vgl. BVerfGE 112, 284 &lt;292&gt;).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="12" rn="141" tbeg="eg">
+    b) Dieser Maßstab ist noch weiter zu verschärfen, wenn eine einstweilige Anordnung begehrt wird, durch die der Vollzug einer Rechtsnorm ausgesetzt wird, soweit sie zwingende Vorgaben des Gemeinschaftsrechts in das deutsche Recht umsetzt.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="13" rn="142" tbeg="eg">
+    In einem solchen Fall ist für die Folgenabwägung von Bedeutung, dass das Bundesverfassungsgericht eine Regelung nicht beanstandet, soweit sie zwingende gemeinschaftsrechtliche Vorgaben umsetzt (vgl. oben I 1 a). In diesem Umfang könnte die einstweilige Anordnung über die Entscheidungskompetenz des Bundesverfassungsgerichts in der Hauptsache hinausgehen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="14" rn="143" tbeg="eg">
+    Zudem sind angesichts der Integrationsoffenheit des Grundgesetzes (vgl. BVerfGE 89, 155 &lt;183&gt;) im Rahmen der Folgenabwägung die Auswirkungen zu berücksichtigen, die sich aus der Aussetzung des Vollzugs einer Rechtsnorm, soweit diese zwingende gemeinschaftsrechtliche Vorgaben umsetzt, für die Gemeinschaftsrechtsordnung ergeben können. Eine derartige Anordnung kann dazu führen, dass ein gemeinschaftsrechtlicher Rechtsakt in der Bundesrepublik Deutschland insgesamt keine Wirkung entfaltet. Darin liegt, soweit der Gemeinschaftsrechtsakt sich letztlich als für den deutschen Gesetzgeber verbindlich erweist, regelmäßig eine Störung des Gemeinschaftsinteresses an einem effektiven Vollzug des Gemeinschaftsrechts.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="15" rn="144" tbeg="eg">
+    Auch die Rechtsprechung des Europäischen Gerichtshofs zur einstweiligen Aussetzung des Vollzugs gemeinschaftsrechtlicher Rechtsakte durch mitgliedstaatliche Gerichte spricht dafür, den Vollzug eines Gesetzes, soweit es zwingende gemeinschaftsrechtliche Vorgaben umsetzt, allenfalls in besonderen Ausnahmefällen auszusetzen. Nach dieser Rechtsprechung kann ein nationales Gericht einstweiligen Rechtsschutz, durch den im Einzelfall der Vollzug gemeinschaftsrechtlicher Vorgaben ausgesetzt wird, nur unter strengen Voraussetzungen gewähren. Insbesondere ist das Interesse der Gemeinschaft am Vollzug des Gemeinschaftsrechts angemessen zu berücksichtigen (vgl. EuGH, Urteil vom 21. Februar 1991 - C-143/88, C-92/89 - Zuckerfabrik Süderdithmarschen und   Zuckerfabrik Soest, Slg. 1991, I-415, Rn. 22 ff.; Urteil vom 9. November 1995 - C-465/93 - Atlanta Fruchthandelsgesellschaft mbH u.a., Slg. 1995, I-3761, Rn. 31 ff.; Urteil vom 17. Juli 1997 - C-334/95 - Krüger GmbH&amp;Co. KG, Slg. 1997, I-4517, Rn. 43 ff.; Urteil vom 6. Dezember 2005 - C-461/03 - Gaston Schul, Slg. 2005, I-10513, Rn. 17 ff.).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="16" rn="145" tbeg="eg">
+    Ob und unter welchen Voraussetzungen das Bundesverfassungsgericht gleichwohl den Vollzug eines Gesetzes aussetzen kann, soweit es zwingende gemeinschaftsrechtliche Vorgaben umsetzt, bedarf hier keiner abschließenden Entscheidung. Eine derartige einstweilige Anordnung setzt aber zumindest voraus, dass aus der Vollziehung des Gesetzes den Betroffenen ein besonders schwerwiegender und irreparabler Schaden droht, dessen Gewicht das Risiko hinnehmbar erscheinen lässt, im Eilverfahren über die Entscheidungskompetenz des Bundesverfassungsgerichts in der Hauptsache hinauszugehen und das Gemeinschaftsinteresse an einem effektiven Vollzug des Gemeinschaftsrechts schwerwiegend zu beeinträchtigen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="17" rn="146" tbeg="eg">
+    2. Nach diesen Maßstäben ist dem Antrag auf Erlass einer einstweiligen Anordnung nur teilweise stattzugeben. Eine Aussetzung der durch § 113a TKG angeordneten Vorratsspeicherung von Telekommunikations-Verkehrsdaten scheidet aus (a). Jedoch ist die Nutzung dieser Daten auf bestimmte Anlässe der Strafverfolgung zu beschränken (b). Für eine einstweilige Anordnung über die Datennutzung zu präventiven Zwecken besteht derzeit kein Anlass (c).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="18" rn="147" tbeg="eg">
+    a) Eine Aussetzung des Vollzugs von § 113a TKG scheidet aus. Die in dieser Norm geregelte Pflicht bestimmter Anbieter von Telekommunikationsdiensten zur Speicherung von Telekommunikations-Verkehrsdaten entspricht zumindest in weiten Teilen zwingenden Vorgaben der Richtlinie. Zwar sieht die Richtlinie die Speicherung nur zu Zwecken der Ermittlung und Verfolgung schwerer Straftaten vor. Diese Zweckbegrenzung enthält § 113a TKG nicht; vielmehr trifft das Telekommunikationsgesetz eine über die Zweckbestimmung der Richtlinie hinausgehende Regelung in § 113b TKG. Diese Regelungstechnik des deutschen Gesetzgebers ändert jedoch nichts daran, dass die Richtlinie eine umfassende Datenspeicherung erfordert.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="19" rn="148" tbeg="eg">
+    Ein besonders schwerwiegender und irreparabler Nachteil, der es rechtfertigen könnte, den Vollzug der Norm ausnahmsweise im Wege einer einstweiligen Anordnung auszusetzen, liegt in der Datenspeicherung allein nicht. Zwar kann die in § 113a TKG angeordnete umfassende und anlasslose Bevorratung sensibler Daten über praktisch jedermann für staatliche Zwecke, die sich zum Zeitpunkt der Speicherung der Daten nicht im Einzelnen absehen lassen, einen erheblichen Einschüchterungseffekt bewirken (vgl. zum grundrechtlichen Gewicht solcher   Effekte BVerfGE 113, 29 &lt;46&gt;). Dieser Effekt ließe sich für die Zeit zwischen dem Inkrafttreten der Norm und der Entscheidung des Bundesverfassungsgerichts selbst dann nicht rückgängig machen, wenn die Verfassungsbeschwerde in der Hauptsache Erfolg haben sollte.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="20" rn="149" tbeg="eg">
+    Der in der Vorratsdatenspeicherung für den Einzelnen liegende Nachteil für seine Freiheit und Privatheit verdichtet und konkretisiert sich jedoch erst durch einen Abruf seiner Daten zu einer möglicherweise irreparablen Beeinträchtigung. Die Datenbevorratung ermöglicht den Abruf, der dann zu konkreten Belastungen führt. Des Weiteren hängt das Gewicht eines denkbaren Einschüchterungseffekts auch davon ab, unter welchen Voraussetzungen die bevorrateten Daten abgerufen und verwertet werden können. Je weiter die Befugnisse staatlicher Stellen insoweit reichen, desto eher müssen die Bürger befürchten, dass diese Stellen ihr Kommunikationsverhalten überwachen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="21" rn="150" tbeg="eg">
+    Angesichts des Zusammenhangs zwischen der Datenbevorratung und dem Abruf der bevorrateten Daten ist mit der Bevorratung allein noch kein derart schwerwiegender Nachteil verbunden, dass das Risiko hingenommen werden müsste, durch eine Aussetzung bereits der Vorratsspeicherung möglicherweise über die Entscheidungskompetenz des Bundesverfassungsgerichts in der Hauptsache hinauszugehen und das Interesse an einem effektiven Vollzug des zwingenden Gemeinschaftsrechts schwerwiegend zu beeinträchtigen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="22" rn="151" tbeg="eg">
+    b) Hingegen ist die in § 113b Satz 1 Nr. 1 TKG ermöglichte Nutzung der bevorrateten Daten zu Zwecken der Strafverfolgung bis zur Entscheidung über die Verfassungsbeschwerde teilweise auszusetzen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="23" rn="152" tbeg="eg">
+    aa) Die nach § 32 Abs. 1 BVerfGG erforderliche Folgenabwägung ergibt, dass das öffentliche Interesse am Vollzug der Norm hinter den Nachteilen, die durch den Normvollzug drohen, teilweise zurückstehen muss.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="24" rn="153" tbeg="eg">
+    (1) Erginge keine einstweilige Anordnung, erwiese sich die Verfassungsbeschwerde aber später als begründet, so drohten Einzelnen und der Allgemeinheit in der Zwischenzeit Nachteile von ganz erheblichem Gewicht.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="25" rn="154" tbeg="eg">
+    Ein Abruf der bevorrateten Telekommunikations-Verkehrsdaten im Einzelfall kann für den Betroffenen gewichtige Nachteile bewirken, die sich zumindest in weitem Umfang durch eine spätere Nichtigerklärung der Vorschriften über die Datenbevorratung und den Datenabruf nicht mehr beheben ließen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="26" rn="155" tbeg="eg">
+    (a) Die sechs Monate andauernde Möglichkeit des Zugriffs auf sämtliche durch eine Inanspruchnahme von Telekommunikationsdiensten entstandenen Verkehrsdaten bedeutet eine erhebliche Gefährdung des in Art. 10 Abs. 1 GG verankerten Persönlichkeitsschutzes. Dass ein umfassender Datenbestand ohne konkreten Anlass bevorratet wird, prägt auch das Gewicht der dadurch ermöglichten Verkehrsdatenabrufe. Von der Datenbevorratung ist annähernd jeder Bürger bei jeder Nutzung von Telekommunikationsanlagen betroffen, so dass eine Vielzahl von sensiblen Informationen über praktisch jedermann für staatliche Zugriffe verfügbar ist. Damit besteht für alle am Telekommunikationsverkehr Beteiligten das Risiko, dass im Rahmen konkreter behördlicher Ermittlungen über einen längeren Zeitraum hinweg Verkehrsdaten abgerufen werden. Dieses Risiko konkretisiert sich im einzelnen Abruf, weist jedoch angesichts der flächendeckenden Erfassung des Telekommunikationsverhaltens der Bevölkerung weit über den Einzelfall hinaus und droht, die Unbefangenheit des Kommunikationsaustauschs und das Vertrauen in den Schutz der Unzugänglichkeit der Telekommunikationsanlagen insgesamt zu erschüttern (vgl. zu einzelnen Datenabrufen BVerfGE 107, 299 &lt;320&gt;).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="27" rn="156" tbeg="eg">
+    (b) In dem Verkehrsdatenabruf selbst liegt ein schwerwiegender und nicht mehr rückgängig zu machender Eingriff in das Grundrecht aus Art. 10 Abs. 1 GG. Ein solcher Datenabruf ermöglicht es, weitreichende Erkenntnisse über das Kommunikationsverhalten und die sozialen Kontakte des Betroffenen zu erlangen, gegebenenfalls sogar begrenzte Rückschlüsse auf die Gesprächsinhalte zu ziehen. Zudem weist ein Verkehrsdatenabruf eine erhebliche Streubreite auf, da er neben der Zielperson des Auskunftsersuchens notwendigerweise deren Kommunikationspartner erfasst, also vielfach Personen, die in keiner Beziehung zu dem Tatvorwurf stehen und den Eingriff durch ihr Verhalten nicht veranlasst haben (vgl. BVerfGE 107, 299 &lt;318 ff.&gt;).
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="28" rn="157" tbeg="eg">
+    Weiter werden in vielen Fällen die durch den Verkehrsdatenabruf erlangten Erkenntnisse die Grundlage für weitere Ermittlungsmaßnahmen bilden, die ohne diese Erkenntnisse nicht durchgeführt worden wären. Solche Ermittlungsmaßnahmen, beispielsweise Wohnungsdurchsuchungen oder Überwachungen der Telekommunikation, können ihrerseits den Betroffenen erheblich belasten, ohne dass es darauf ankommt, ob sie den gegen ihn bestehenden Verdacht einer strafbaren Handlung erhärten oder widerlegen. Auch die darin liegenden Nachteile können im Anschluss an die Ermittlungsmaßnahme nicht mehr behoben werden.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="29" rn="158" tbeg="eg">
+    Schließlich können die abgerufenen Verkehrsdaten sowie die durch weitere Ermittlungsmaßnahmen, die an den Verkehrsdatenabruf anknüpfen, erlangten Erkenntnisse Grundlage eines Strafverfahrens und gegebenenfalls einer strafrechtlichen Verurteilung des Betroffenen werden, die ohne die Datenbevorratung und den Abruf der bevorrateten Daten nicht möglich gewesen wären. Wären die mit der Verfassungsbeschwerde angegriffenen Normen mit dem Grundgesetz unvereinbar und daher nichtig, würde die Verurteilung in solchen Fällen auf Beweismitteln beruhen, die im Rahmen eines verfassungsgemäß durchgeführten strafrechtlichen Ermittlungsverfahrens nicht hätten gewonnen werden dürfen. Es erscheint zumindest zweifelhaft, ob sich der darin liegende Nachteil für den Betroffenen nach einer Nichtigerklärung der Vorschriften über Datenbevorratung und Datenabruf in jedem Fall vollständig beheben ließe.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="30" rn="159" tbeg="eg">
+    (2) Erginge eine auf den Abruf der bevorrateten Daten bezogene einstweilige Anordnung, erwiesen sich die angegriffenen Normen jedoch später als verfassungsgemäß, so könnten sich Nachteile für das öffentliche Interesse an einer   effektiven Strafverfolgung ergeben.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="31" rn="160" tbeg="eg">
+    Diese Nachteile wiegen allerdings teilweise weniger schwer und sind angesichts des Gewichts der dem Einzelnen und der Allgemeinheit durch den Vollzug des § 113b Satz 1 Nr. 1 TKG drohenden Nachteile hinzunehmen, wenn die einstweilige Anordnung zwar nicht die Durchsicht der bevorrateten Verkehrsdaten durch den Diensteanbieter infolge eines Abrufersuchens der Strafverfolgungsbehörde ausschließt, wohl aber die Übermittlung und Nutzung des dadurch gewonnenen Datensatzes bis zur Entscheidung in der Hauptsache begrenzt. Von der einstweiligen Anordnung, die eine Übermittlung der Daten ausschließt, sind allerdings Abrufersuchen auszunehmen, die der Verfolgung von Katalogtaten im Sinne des § 100a Abs. 2 StPO dienen, wenn darüber hinaus auch die Voraussetzungen des § 100a Abs. 1 StPO vorliegen. Im Übrigen dürfen die Daten einstweilen nicht genutzt werden.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="32" rn="161" tbeg="eg">
+    (a) Eine solche einstweilige Anordnung hindert die Strafverfolgungsbehörden nicht, gemäß § 100g Abs. 1 StPO auf der Grundlage einer Anordnung nach § 100g Abs. 2 Satz 1 in Verbindung mit § 100b Abs. 1 und 2 StPO Abrufersuchen an Telekommunikations-Diensteanbieter zu richten, welche die allein nach § 113a TKG gespeicherten Verkehrsdaten zum Gegenstand haben. Wohl aber wird die Nutzung der von einem Diensteanbieter auf ein solches Ersuchen hin erhobenen Daten teilweise beschränkt.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="33" rn="162" tbeg="eg">
+    Würde jedweder Zugriff auf die bevorrateten Daten unterbunden, so bestünde die Gefahr, dass den Strafverfolgungsbehörden ein effektives Ermittlungsinstrument vollständig versagt bliebe. Da derzeit nicht abzusehen ist, wann eine Entscheidung über die Verfassungsbeschwerde ergehen wird, erscheint es wahrscheinlich, dass hinsichtlich einiger der auf Vorrat gespeicherten Daten die Speicherungsfrist bis zu dieser Entscheidung abgelaufen sein würde. Diese Daten würden daher gemäß § 113a Abs. 11 TKG zu löschen sein und für einen späteren Abruf nicht mehr zur Verfügung stehen. Dies könnte dazu führen, dass strafrechtliche Ermittlungen erfolglos bleiben, die mit Hilfe der bevorrateten Daten erfolgreich hätten abgeschlossen werden können.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="34" rn="163" tbeg="eg">
+    Dieser Nachteil für das Strafverfolgungsinteresse kann jedoch weitgehend vermieden werden, wenn nicht das Abrufersuchen ausgeschlossen, sondern lediglich die Übermittlung und Nutzung der auf das Ersuchen hin von dem zur Speicherung Verpflichteten erhobenen Daten ausgesetzt werden. Sollten die mit der Verfassungsbeschwerde angegriffenen Normen sich als verfassungsgemäß erweisen, so könnten anschließend diese Daten in vollem Umfang zum Zwecke der Strafverfolgung genutzt werden. Eine Vereitelung der Strafverfolgung durch die zwischenzeitliche Löschung der bevorrateten Daten ist dann nicht zu besorgen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="35" rn="164" tbeg="eg">
+    (b) Die Übermittlung und Nutzung der von einem Diensteanbieter auf ein Abrufersuchen hin erhobenen Daten sind allerdings in den Fällen nicht zu beschränken, in denen Gegenstand des Ermittlungsverfahrens eine Katalogtat im Sinne des § 100a Abs. 2 StPO ist und zudem die Voraussetzungen des § 100a Abs. 1 StPO vorliegen. Die einstweilige Anordnung erfasst hingegen die übrigen Anwendungsfälle der Abrufermächtigung des § 100g Abs. 1 StPO.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="36" rn="165" tbeg="eg">
+    (aa) Wird die Übermittlung und Nutzung der abgerufenen Daten an die Strafverfolgungsbehörden ausgesetzt, so können die weiteren Ermittlungen dadurch bis zur Entscheidung über die Verfassungsbeschwerde verzögert werden. Diese Verzögerung kann im Einzelfall zur Folge haben, dass das betroffene Ermittlungsverfahren ganz oder teilweise erfolglos bleibt, obwohl es ohne die Aussetzung erfolgreich hätte abgeschlossen werden können. Insbesondere können Beweismittel zwischenzeitlich verloren gehen, die ohne die Verzögerung der weiteren Ermittlungen verfügbar gewesen und im Anschluss an den Datenabruf erhoben worden wären.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="37" rn="166" tbeg="eg">
+    Inwieweit dieses Risiko um des Schutzes der Betroffenen willen hinzunehmen ist, hängt von dem Gewicht des staatlichen Ermittlungsinteresses ab. Das Bundesverfassungsgericht hat für dessen Beurteilung im Eilverfahren grundsätzlich von der Einschätzung des Gesetzgebers auszugehen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="38" rn="167" tbeg="eg">
+    Der Gesetzgeber hat in § 100a Abs. 2 StPO die dort benannten Straftaten als so schwer eingestuft, dass sie nach seiner Einschätzung eine Überwachung der Telekommunikation rechtfertigen, die durch einen Abruf von Verkehrsdaten nach § 100g StPO vorbereitet werden kann. Für Telekommunikationsüberwachungen liegt auf der Hand, dass durch eine Verzögerung des Ermittlungsverfahrens Beweismittel unwiederbringlich verloren gehen können. Der Verkehrsdatenabruf kann auch dazu dienen, Ermittlungsansätze zu gewinnen, ohne eine Telekommunikationsüberwachung vorzubereiten. Auch in diesen Fällen liefert der in § 100a Abs. 2 StPO enthaltene Straftatenkatalog eine Leitlinie dafür, welche Straftaten der Gesetzgeber als so schwerwiegend bewertet, dass sie auch gewichtige Eingriffe in das Grundrecht aus Art. 10 Abs. 1 GG rechtfertigen können.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="39" rn="168" tbeg="eg">
+    Dabei ist im Verfahren über den Erlass einer einstweiligen Anordnung nicht zu prüfen, ob der deutsche Gesetzgeber durch die Richtlinie 2006/24/EG verpflichtet war, sämtliche der in § 100a Abs. 2 StPO aufgeführten Straftaten in die Abrufermächtigung des § 100g StPO einzubeziehen. Jedenfalls verfügte der Gesetzgeber bei der Umsetzung der Richtlinie insoweit über einen beachtlichen Einschätzungs- und Regelungsspielraum. Es ist nicht ersichtlich, dass der Gesetzgeber aufgrund der Richtlinie verpflichtet war, noch weitere, in dem Katalog nicht genannte Straftaten als Anlasstaten für einen Verkehrsdatenabruf ausreichen zu lassen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="40" rn="169" tbeg="eg">
+    (bb) Soweit das Ermittlungsverfahren, in dessen Rahmen gemäß § 100g Abs. 1 Nr. 1 StPO in Verbindung mit § 113b Satz 1 Nr. 1 TKG bevorratete Telekommunikations-Verkehrsdaten abgerufen werden sollen, sich auf eine Straftat bezieht, die in dem Katalog des § 100a Abs. 2 StPO aufgeführt ist, hat das öffentliche Strafverfolgungsinteresse nach der im Eilverfahren zugrunde zu legenden Einschätzung des Gesetzgebers grundsätzlich derartiges Gewicht, dass eine Verzögerung durch eine einstweilige Anordnung nicht hingenommen werden kann.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="41" rn="170" tbeg="eg">
+    Allerdings ist § 100g Abs. 1 Nr. 1 StPO in Verbindung mit § 100a Abs. 2 StPO im Interesse eines größtmöglichen Schutzes der Nutzer von Telekommunikationsdienstleistungen für die Dauer der einstweiligen Anordnung insoweit einengend anzuwenden, als ein Abruf der nach § 113a TKG gespeicherten Verkehrsdaten zusätzlich voraussetzt, dass die - nur teilweise auch in § 100g StPO aufgeführten - Anforderungen vorliegen, die § 100a Abs. 1 StPO aufstellt. Nur wenn die Katalogtat auch im Einzelfall schwer wiegt (§ 100a Abs. 1 Nr. 2 StPO), ist sichergestellt, dass die gesetzgeberische Einschätzung der Schwere der betroffenen Katalogtat trägt (vgl. zu der Abrufermächtigung des § 100g StPO a.F. BVerfGE 107, 299 &lt;322&gt;). Zudem ist zumindest grundsätzlich nur dann, wenn anzunehmen ist, dass die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsorts des Beschuldigten auf andere Weise wesentlich erschwert oder aussichtslos wäre (§ 100a Abs. 1 Nr. 3 StPO), zu besorgen, dass eine Verzögerung der Nutzung der bevorrateten Verkehrsdaten die Strafverfolgung insgesamt vereitelt. Ein derartiges Misserfolgsrisiko dürfte in Fällen, in denen die Voraussetzungen von § 100a Abs. 1 Nr. 3 StPO nicht vorliegen, allenfalls ausnahmsweise drohen; dieses Restrisiko ist angesichts des Gewichts der Nachteile, die dem Einzelnen und der Allgemeinheit durch einen Abruf der bevorrateten Daten drohen, hinzunehmen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="42" rn="171" tbeg="eg">
+    (cc) In den Fällen des § 100g Abs. 1 StPO, in denen die Voraussetzungen von § 100a Abs. 1 und 2 StPO nicht vorliegen, ist hingegen die Übermittlung und Nutzung der bevorrateten Verkehrsdaten einstweilen auszusetzen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="43" rn="172" tbeg="eg">
+    Dies betrifft zunächst Ermittlungsverfahren, die sich zwar auf eine Katalogtat im Sinne des § 100a Abs. 2 StPO beziehen, hinsichtlich derer jedoch die Voraussetzungen des § 100a Abs. 1 StPO nicht vorliegen.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="44" rn="173" tbeg="eg">
+    Zudem reicht die Abrufermächtigung des § 100g Abs. 1 StPO hinsichtlich der aufzuklärenden Straftaten über den Katalog des § 100a Abs. 2 StPO hinaus. Verkehrsdatenabrufe werden auch ermöglicht, wenn eine sonstige „Straftat von auch im Einzelfall erheblicher Bedeutung“ betroffen ist (§ 100g Abs. 1 Nr. 1 StPO) oder wenn die Straftat mittels Telekommunikation begangen wurde (§ 100g Abs. 1 Nr. 2 StPO). In diesen Fällen ist das Risiko hinzunehmen, dass eine Verzögerung der Datennutzung das Ermittlungsverfahren insgesamt vereitelt. Dieses Risiko ist dadurch gemildert, dass den Strafverfolgungsbehörden die ihnen schon bisher eröffneten Möglichkeiten des Zugriffs auf die von den Telekommunikations-Diensteanbietern im eigenen Interesse, etwa gemäß § 97 in Verbindung mit § 96 Abs. 1 TKG zur Entgeltabrechnung, gespeicherten Telekommunikations-Verkehrsdaten erhalten bleiben. Ferner hat § 100g Abs. 1 StPO die bisherigen Befugnisse der Strafverfolgungsbehörden insoweit erweitert, als nunmehr auch eine Ausleitung von Verkehrsdaten in Echtzeit ermöglicht wird. Diese Erweiterung ist von den Beschwerdeführern nicht zum Gegenstand des vorliegenden Verfahrens und damit auch des Antrags auf einstweiligen Rechtsschutz gewählt worden. Diese Möglichkeit bleibt daher von der einstweiligen Anordnung unberührt.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="45" rn="174" tbeg="eg">
+    Die Nichtaufnahme in den - bereits sehr weiten - Katalog des § 100a Abs. 2 StPO indiziert, dass der Gesetzgeber den verbleibenden Straftaten im Hinblick auf Eingriffe in das Grundrecht aus Art. 10 Abs. 1 GG geringere Bedeutung beigemessen hat. Dementsprechend geringer zu gewichten sind die Nachteile durch eine Aussetzung der Datennutzung, die im Rahmen der Folgenabwägung der Beeinträchtigung der Grundrechte der Betroffenen gegenüber zu stellen sind.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="46" rn="175" tbeg="eg">
+    Zudem kann der Verkehrsdatenabruf in den Fällen, in denen Gegenstand des Ermittlungsverfahrens keine Katalogtat im Sinne des § 100a Abs. 2 StPO ist, nicht der Vorbereitung einer Telekommunikationsüberwachung, sondern lediglich der Gewinnung anderer Ermittlungsansätze dienen. In derartigen Fällen ist das Risiko, dass infolge einer Verzögerung der Datennutzung die Ermittlungen insgesamt erfolglos bleiben, eher hinzunehmen als in den Fällen des § 100a Abs. 2 StPO.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="47" rn="176" tbeg="eg">
+    bb) Soweit nach diesen Maßgaben eine einstweilige Anordnung zu erlassen ist, bleiben die Strafverfolgungsbehörden unter den Voraussetzungen des § 100b Abs. 1 bis 4 Satz 1 StPO dazu befugt, nach § 100g StPO in Verbindung mit § 113b Satz 1 Nr. 1 TKG Abrufersuchen an die nach §§ 113a, 113b TKG zur Datenbevorratung und Datenauswertung verpflichteten Diensteanbieter zu richten. Ein Diensteanbieter hat auf ein Abrufersuchen hin den bevorrateten Datenbestand nach Maßgabe des Ersuchens auszuwerten. Das Suchergebnis ist der Strafverfolgungsbehörde jedoch nur dann unverzüglich mitzuteilen, wenn in der Anordnung des Abrufs (§ 100g Abs. 2 in Verbindung mit § 100b Abs. 1 und 2 StPO) aufgeführt ist, dass er eine Katalogtat nach § 100a Abs. 2 StPO zum Gegenstand hat und dass die Voraussetzungen des § 100a Abs. 1 StPO vorliegen. Ansonsten ist das Suchergebnis der Strafverfolgungsbehörde nicht mitzuteilen, sondern bei dem Diensteanbieter zu verwahren, um gegebenenfalls später übermittelt werden zu können, und zwar über die Löschungsfrist des § 113a Abs. 11 TKG hinaus. Der Diensteanbieter darf das Suchergebnis nicht zu eigenen Zwecken verwenden und hat sicherzustellen, dass Dritte keinen Zugriff darauf nehmen können.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="48" rn="177" tbeg="eg">
+    cc) Die Bundesregierung hat die praktischen Auswirkungen der Vorratsspeicherung und der darauf bezogenen einstweiligen Anordnung bis zur Entscheidung in der Hauptsache zu beobachten und dem Bundesverfassungsgericht nach folgenden Maßgaben zu berichten.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="49" rn="178" tbeg="eg">
+    Der Bericht soll dem Senat dazu dienen, einerseits die Bedeutung der Vorratsspeicherung für die Strafverfolgung - wozu neben ihren ermittlungspraktischen Vorteilen auch die durch die teilweise Suspendierung von § 113b Satz 1 Nr. 1 TKG bewirkten Nachteile für eine effektive Strafverfolgung gehören - sowie andererseits das Gewicht der durch einen Abruf der Vorratsdaten drohenden Nachteile einzuschätzen. Die Informationen sollen dem Senat die Entscheidung ermöglichen, ob gegebenenfalls von Amts wegen eine Änderung der einstweiligen Anordnung vorzunehmen und ob sie zu verlängern ist. Für die von der Vorratsspeicherung und den Abrufen ausgehenden Nachteile kommt es auch darauf an, in welchem Umfang und zu welchen Zwecken von den bevorrateten Daten Gebrauch gemacht wird. Auch anhand dessen wird der Senat überprüfen, ob die getroffene einstweilige Anordnung die Interessen des Einzelnen und der Allgemeinheit hinreichend schützt.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="50" rn="179" tbeg="eg">
+    Die Länder und der Generalbundesanwalt haben zu diesen Zielen der Bundesregierung -  etwa über das Bundesamt der Justiz, das durch § 100g Abs. 4 in Verbindung mit § 100b Abs. 5 StPO bereits jetzt mit einer vergleichbaren Auswertung betraut ist - zunächst für den Zeitraum vom 1. Mai 2008 bis zum 1. August 2008 über die in ihrem Zuständigkeitsbereich angeordneten Maßnahmen nach § 100g StPO zu berichten. Die Bundesregierung hat eine Übersicht zu den im Berichtszeitraum bundesweit angeordneten Maßnahmen zu erstellen und diese zusammen mit den einzelnen Berichten dem Bundesverfassungsgericht bis zum 1. September 2008 zuzuleiten. Die Berichte haben die folgenden Angaben zu enthalten:
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="51" rn="180" tbeg="eg">
+    die Anzahl der Ermittlungsverfahren, in denen Maßnahmen nach § 100g Abs. 1 StPO durchgeführt worden sind;
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="52" rn="181" tbeg="eg">
+    die Anzahl der Anordnungen nach § 100g Abs. 1 StPO, unterschieden nach Erst- und Verlängerungsanordnungen;
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="53" rn="182" tbeg="eg">
+    die Anzahl der Ermittlungsverfahren und Anordnungen, hinsichtlich derer für die Bearbeitung von Abrufersuchen nach § 100g Abs. 1 StPO auf die allein nach § 113a TKG gespeicherten   Daten zurückgegriffen werden musste;
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="54" rn="183" tbeg="eg">
+    die Anzahl der Ermittlungsverfahren und Anordnungen, hinsichtlich derer aufgrund der hier getroffenen einstweiligen Anordnung die von den Diensteanbietern erhobenen Daten nicht an die Strafverfolgungsbehörde übermittelt, sondern bei den Diensteanbietern gespeichert wurden;
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="55" rn="184" tbeg="eg">
+    die den Ermittlungsverfahren jeweils zugrunde liegenden Anlassstraftaten.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="56" rn="185" tbeg="eg">
+    c) Zur Aussetzung des Vollzugs von § 113b Satz 1 Nr. 2 und 3 TKG besteht jedenfalls zurzeit kein Anlass.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="57" rn="186" tbeg="eg">
+    Diese Regelungen öffnen den nach § 113a TKG bevorrateten Datenbestand für Abrufe mit präventiver Zielsetzung durch Gefahrenabwehr- und Sicherheitsbehörden. Insoweit läuft § 113b TKG jedoch gegenwärtig noch leer, da bislang keine fachrechtlichen Abrufermächtigungen bestehen, die ausdrücklich auf § 113a TKG Bezug nehmen. Angesichts dessen drohen schwere Nachteile für den Einzelnen und die Allgemeinheit durch solche Abrufe zum jetzigen Zeitpunkt nicht.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="58" rn="187" tbeg="eg">
+    Den Beschwerdeführern bleibt unbenommen, gegebenenfalls einen Antrag auf Aussetzung des Vollzugs von § 113b Satz 1 Nr. 2 und 3 TKG zu stellen, wenn Nachteile durch diese Regelungen konkret absehbar sind, weil fachrechtliche Ermächtigungen zum Abruf der bevorrateten Daten geschaffen wurden oder ihre Regelung unmittelbar bevorsteht. Welche Erfolgsaussichten ein solcher Antrag haben würde, bedarf hier keiner Entscheidung.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="59" rn="188" tbeg="eg">
+    Die Entscheidung über die Auslagenerstattung beruht auf § 34a Abs. 3 BVerfGG.
+   </absatz><absatz ebene1nr="2" ebene1zeichen="B" absatzID="60" rn="NA" tbeg="eg">
+   Papier
+ Hohmann-Dennhardt
+ Hoffmann-Riem
+ Bryde
+ Gaier
+ Eichberger
+ Schluckebier
+ Kirchhof
+  </absatz></ebene1></gruende>
+ </entscheidung>
+</bverfgdokument>
+
+
+
+
